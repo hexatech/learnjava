@@ -1,5 +1,6 @@
 package com.learn.observerpattern;
 
-public interface IBroker extends ExchangeRateListener{
+//interface for different brokers exchange withh listen
+public interface IBroker extends ExchangeRateListener {
 
 }
